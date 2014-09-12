@@ -58,7 +58,10 @@ body {
 .inner {
   padding: 30px;
 }
-
+.inner-foo {
+  padding: 30px;
+  float: left;
+}
 
 /*
  * Header
