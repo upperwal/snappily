@@ -161,14 +161,16 @@ body {
   font-size: 35px;
 }
 .fb {
-  background: url('../images/fb.png');
+  background: url('../images/fb.png') no-repeat;
   border: none;
+  background-size: 80%;
   width: 72px;
   height: 30px;
 }
 .twitter {
-  background: url('../images/twitter.png');
+  background: url('../images/twitter.png') no-repeat;
   border: none;
+  background-size: 80%;
   width: 96px;
   height: 30px;
 }
