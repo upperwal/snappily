@@ -167,15 +167,15 @@ body {
   background: url('../images/fb.png') no-repeat;
   border: none;
   background-size: 80%;
-  width: 72px;
-  height: 30px;
+  width: 52px;
+  height: 52px;
 }
 .twitter {
   background: url('../images/twitter.png') no-repeat;
   border: none;
   background-size: 80%;
-  width: 96px;
-  height: 30px;
+  width: 52px;
+  height: 52px;
 }
 @media (min-width: 768px) {
   /* Pull out the header and footer */
